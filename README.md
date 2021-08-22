@@ -2,18 +2,28 @@
 
 This is a collaborative project to reference sorting algorithms in different languages.
 
-Langages list (not exhaustive) :
+Languages list (not exhaustive) :
+- ASM
 - C
 - C#
 - C++
+- Go
 - Java
 - Javascript
+- Lua
 - Matlab
+- Objective-C
+- Objective-C++
 - Ocaml
+- Perl
 - PHP
 - Python
 - Ruby
+- Rust
+- Scala
+- Swift
 - Typescript
+- Visual Basic
 
 Sorting algorithms to implement (not exhaustive) :
 - Bogo sort
